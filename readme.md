@@ -20,3 +20,4 @@ THEN I am taken to the corresponding section of the README
 
 ## getting started building the index.js
 create modules for node
+create supplimental js files 
