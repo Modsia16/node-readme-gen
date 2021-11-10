@@ -2,13 +2,13 @@
 
 ## TABLE OF CONTENTS
 
-1. About(#about)
-2. Install(#install)
-3. Usage(#usage)
-4. Contribute(#contribute)
-5. Tests(#tests)
-6. Criteria(#criteria)
-7. Demo(#demo)
+* [About](#about)
+* [Install](#install)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [Tests](#tests)
+* [Criteria](#criteria)
+* [Demo](#demo)
 
 ## About
 Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
@@ -47,4 +47,5 @@ When I click on the links in the Table of Contents, then I am taken to the corre
 ## Demo
 
 ![demo](./demogif/readmehw.gif)
+
 

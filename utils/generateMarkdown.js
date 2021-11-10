@@ -79,20 +79,19 @@ function generateMarkdown(data) {
     return `# ${data.title}
   ${renderLicenseBadge(data.license)}
   ## Table of Contents
+  * [About](#about)
+  * [Build](#build)
+  * [Installation](#installation)
+  * [Contributing](#contributing)
+  * [Usage](#usage)
+  * [Tests](#tests)
+  * [License](#license)
+  * [Questions](#questions)
 
-  [about](#about)
-  [build](#build)
-  [installation](#installation)
-  [contributing](#contributing)
-  [usage](#usage)
-  [tests](#tests)
-  [license](#license)
-  [questions](#questions)
-
-    ## About The Project
+    ## About
         ${data.about}
     
-    ## Built With
+    ## Build
       ${data.languages}
     
     ## Installation
@@ -113,7 +112,7 @@ function generateMarkdown(data) {
 
 
     ## Questions
-    Contact:
+    Please contact:
     Github: [${data.username}](https://github.com/${data.username})
     Email: ${data.email}
   `;
