@@ -1,24 +1,23 @@
 # readme2
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
+  * [About](#about)
+  * [Build](#build)
+  * [Installation](#installation)
+  * [Contributing](#contributing)
+  * [Usage](#usage)
+  * [Tests](#tests)
+  * [License](#license)
+  * [Questions](#questions)
 
-  [about](#about)
-  [build](#build)
-  [installation](#installation)
-  [contributing](#contributing)
-  [usage](#usage)
-  [tests](#tests)
-  [license](#license)
-  [questions](#questions)
-
-    ## About The Project
+    ## About
         readme generator
     
-    ## Built With
+    ## Build
       undefined
     
     ## Installation
-      in readme
+      inquirer
     
     ## Contributing
       none
@@ -51,7 +50,7 @@ OR OTHER DEALINGS IN THE SOFTWARE.
 
 
     ## Questions
-    Contact:
+    Please contact:
     Github: [na](https://github.com/na)
     Email: na
   
