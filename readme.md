@@ -46,6 +46,5 @@ When I click on the links in the Table of Contents, then I am taken to the corre
 
 ## Demo
 
-In file
 ![demo](./demogif/readmehw.gif)
 
